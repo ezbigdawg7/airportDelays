@@ -1,0 +1,11 @@
+09-23 17:08:45.783  14806-14806/com.example.marckirsch.airportdelays I/System.out? MSP
+09-23 17:08:45.783  14806-14806/com.example.marckirsch.airportdelays I/System.out? DataSnapshot { key = MSP, 
+
+value = {IATA=MSP, 
+	status={closureBegin=, trend=, avgDelay=32 minutes, reason=VOLUME / COMPACTED DEMAND, minDelay=, closureEnd=, type=Ground Delay, maxDelay=, endTime=}, 
+         ICAO=KMSP, 
+        name=Minneapolis-St Paul International/Wold-Chamberlain, 
+        state=Minnesota, 
+        weather={wind=East at 10.4mph, weather=Overcast, visibility=8, temp=69.0 F (20.6 C)}, 
+
+delay=true, city=Minneapolis} }
